@@ -1,4 +1,6 @@
+
 <?php
+/* php - $ = začátek názvu skriptu ; = parametr; zakončit semicolenem. parametry v "" se mohou měnit - přepíše se obsah */
 $name = "martin Lédl";
 $age = "věk 17let 2002 20.srpen";
 $gender = "pohlaví - muž";
