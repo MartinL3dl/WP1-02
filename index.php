@@ -30,5 +30,6 @@ $hobbies = "koníčky - psaní patetických a špatných fanfikcí s mojí uboho
  <li>Phone : <?php echo $telephone; ?></li>
 <li><?php echo $hobbies; ?></li>
 
+</ul>
 </body>
 </html>
